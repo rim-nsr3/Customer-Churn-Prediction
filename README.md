@@ -86,4 +86,4 @@ The production build will be created in the `build` directory.
 
 ## Contributing
 
-We welcome contributions! Please feel free to submit a Pull Request 😄.
+We welcome contributions! Please feel free to submit a Pull Request 😄!
